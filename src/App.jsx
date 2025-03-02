@@ -1,35 +1,40 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from 'react';
+import phrases from './phrases.json';
+import { randomItems } from './utils';
+import PhraseCard from './components/PhraseCard'
+import Button from './components/Button'
+import { img1_bg, img2_bg, img3_bg, img4_bg } from './assets/img';
+
+
+const imgs_bg = [img1_bg, img2_bg, img3_bg, img4_bg]
 
 function App() {
-  const [count, setCount] = useState(0)
+	const [phrase, setPhrases] = useState(randomItems(phrases));
+	const [img_bg, setImg_bg] = useState(randomItems(imgs_bg))
 
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+	const changePhrase = () => {
+		setPhrases(randomItems(phrases))
+		setImg_bg(randomItems(imgs_bg))
+	}
+
+	return (
+		<div className='container' style={{backgroundImage: `url('${img_bg}')`}}>
+		
+			<h1>Galleta de la Fortuna</h1>
+			
+			<PhraseCard
+				phrase={phrase.phrase}
+				author={phrase.author}
+			/>
+			
+			<article className="outer-box">
+				<Button className="inner-box" handlePhrase={changePhrase}>
+					Prueba tu fortuna
+				</Button>
+			</article> 
+		
+		</div>
+	);
 }
 
-export default App
+export default App;
