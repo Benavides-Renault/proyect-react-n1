@@ -1,62 +1,246 @@
 [
   {
-    "phrase": "Lo que sospechabas es verdad, procura ser amable con ellos, pues esta bondad ayudará a que todo mejore.",
-    "author": "proverbia.net"
+    "phrase": "El éxito no se consigue estudiando, sino robando y apostando en el casino.",
+    "author": "Pedro Sánchez"
   },
   {
-    "phrase": "Se te cumplirá un hermoso sueño y veras como otros sueños se hacen realidad.",
-    "author": "Proverbio Japones"
+    "phrase": "Nunca sigas a las multitudes, las ranas tienen sus propias reglas.",
+    "author": "Cristóbal Colón"
   },
   {
-    "phrase": "La realidad del ser humano es su pensamiento, no su cuerpo material.",
-    "author": "proverbia.net"
+    "phrase": "La clave para el futuro es no entender nada de lo que pasa, ¡es la mejor manera de sobrevivir!",
+    "author": "Albert Einstein"
   },
   {
-    "phrase": "Te casarás con un atleta profesional. Si las competencias de comer pueden ser consideradas un deporte.",
-    "author": "proverbia.net"
+    "phrase": "¡Haz todo lo que puedas con lo que tienes! Es la receta del desastre… o del éxito, depende del ángulo.",
+    "author": "Nikola Tesla"
   },
   {
-    "phrase": "Valiente es aquel que ama..",
-    "author": "proverbia.net"
+    "phrase": "Si todo falla, siempre queda la opción de pedir un deseo al genio de la lámpara.",
+    "author": "Albert Einstein"
   },
   {
-    "phrase": "No tienes que ser más rápido que el oso, solo tienes que ser más rápido que el chico más lento que corre de él.",
-    "author": "proverbia.net"
+    "phrase": "Si no sabes a dónde vas, al menos disfruta el viaje… ¡y que sea por la autopista!",
+    "author": "Charles Darwin"
   },
   {
-    "phrase": "No te tomes la vida demasiado en serio. No saldrás de ella con vida.",
-    "author": "proverbia.net"
+    "phrase": "Las grandes ideas nacen en el caos… y en los lunes por la mañana.",
+    "author": "Albert Einstein"
   },
   {
-    "phrase": "Mañana puede ser muy tarde para disfrutar lo que tienes hoy.",
-    "author": "ajescudero"
+    "phrase": "La política es un juego en el que nadie juega limpio, pero todos son buenos actores.",
+    "author": "Maduro"
   },
   {
-    "phrase": "Cuando busques lo que mas deseas, recuerda hacer tu mejor esfuerzo.",
-    "author": "ajescudero"
+    "phrase": "Mi fórmula para el éxito: apostar al rojo, perder y luego volver a apostar doblado.",
+    "author": "Donald Trump"
   },
   {
-    "phrase": "No olvides que un amigo es un regalo que te das a ti mismo.",
-    "author": "ajescudero"
+    "phrase": "Dale un poco de tiempo y verás que todo se soluciona… o no, pero igual se ve interesante.",
+    "author": "Salvador Dalí"
   },
   {
-    "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo.",
-    "author": "ajescudero"
+    "phrase": "La verdadera riqueza está en saber dónde dejar tus zapatos… o en tener zapatos de oro.",
+    "author": "Pedro Sánchez"
   },
   {
-    "phrase": "Una reputación de mil años puede depender de la conducta de una hora",
-    "author": "Proverbio Japones"
+    "phrase": "La mente humana es como un paracaídas, solo funciona cuando está abierta… a recibir memes.",
+    "author": "Albert Einstein"
   },
   {
-    "phrase": "Siente la felicidad que espera por ti y no olvides atraparla para mantenerla contigo.",
-    "author": "ajescudero"
+    "phrase": "Si no sabes lo que estás haciendo, al menos hazlo con mucha confianza.",
+    "author": "Nikola Tesla"
   },
   {
-    "phrase": "Alégrate, un camino de hermosas pasiones te espera y debes transitarlo",
-    "author": "ajescudero"
+    "phrase": "La vida es un juego de ajedrez, solo que no sé cómo jugar ajedrez.",
+    "author": "Cristóbal Colón"
   },
   {
-    "phrase": "No todo el mundo puede recibir las mismas cosas. Se practico.",
-    "author": "ajescudero"
+    "phrase": "Si quieres ser un genio, solo necesitas dos cosas: café y wifi.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si no estás seguro de lo que estás haciendo, al menos hazlo con confianza.",
+    "author": "Charles Darwin"
+  },
+  {
+    "phrase": "La vida es corta, pero el Wi-Fi es eterno.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "phrase": "No es lo que sabes, sino cuánto puedes hacer que la gente crea que sabes.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "¿Por qué leer libros cuando puedes leer los titulares de las noticias?",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si algo puede salir mal, saldrá mal… y probablemente con memes incluidos.",
+    "author": "Cristóbal Colón"
+  },
+  {
+    "phrase": "Todo es relativo, menos las pizzas, esas son simplemente buenas.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "No le temo a la muerte, le temo a quedarme sin batería en el móvil.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "phrase": "Mi filosofía de vida es simple: Si no puedes ganarlo, al menos disfrútalo.",
+    "author": "Pedro Sánchez"
+  },
+  {
+    "phrase": "En el futuro todos seremos ricos, solo que unos más que otros.",
+    "author": "Donald Trump"
+  },
+  {
+    "phrase": "Un día seré famoso, pero hoy me conformo con un buen café.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si no puedes convencerlos, confúndelos con memes.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "La política es como un circo, pero con menos payasos.",
+    "author": "Maduro"
+  },
+  {
+    "phrase": "Si eres el primero en llegar a un lugar, asegúrate de dejar una buena impresión… o al menos una foto rara.",
+    "author": "Cristóbal Colón"
+  },
+  {
+    "phrase": "La vida no es justa, pero al menos la pizza siempre es deliciosa.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La suerte es para los que no tienen Wi-Fi.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "phrase": "Piensa en grande, pero actúa como si estuvieras en pijama.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si no puedes convencerlos, al menos haz que se rían de ti.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "¿De qué sirve la inteligencia si no tienes un buen meme para compartir?",
+    "author": "Charles Darwin"
+  },
+  {
+    "phrase": "Cada fracaso es una lección, pero es más divertido si te haces un meme.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "El mejor consejo es este: Si no puedes ganarlo, haz que se ría todo el mundo.",
+    "author": "Pedro Sánchez"
+  },
+  {
+    "phrase": "La realidad es la mejor forma de escapar del aburrimiento.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "La ciencia no es más que un intento de entender por qué no entendemos nada.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si quieres cambiar el mundo, primero cambia tu peinado.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "El amor es ciego, pero el matrimonio te da gafas.",
+    "author": "Cristóbal Colón"
+  },
+  {
+    "phrase": "Un buen científico siempre tiene más preguntas que respuestas, y más café que respuestas.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "El éxito no es tener lo que quieres, es tener lo que no necesitas.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "Los problemas nunca se solucionan, solo se desplazan a otro lugar.",
+    "author": "Pedro Sánchez"
+  },
+  {
+    "phrase": "Si no puedes ganar, al menos haz que todos se rían contigo.",
+    "author": "Charles Darwin"
+  },
+  {
+    "phrase": "La vida es como un meme: a veces no tiene sentido, pero es divertida.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La ciencia no trata de explicar el universo, solo de hacerlo más complicado.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si no puedes convencerlos, al menos haz que se rían de ti.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "La vida no tiene un manual de instrucciones, pero los memes ayudan.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "phrase": "El arte de la política es convencer a todos de que te den su dinero.",
+    "author": "Maduro"
+  },
+  {
+    "phrase": "Si no puedes convencerlos, haz que se rían con memes.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "La vida es un circo, y todos estamos esperando el espectáculo.",
+    "author": "Cristóbal Colón"
+  },
+  {
+    "phrase": "La mente humana es como un paracaídas, solo funciona cuando está abierta… a los memes.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La política es solo una serie de memes mal escritos.",
+    "author": "Maduro"
+  },
+  {
+    "phrase": "Si quieres ser feliz, cambia de canal de TV.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "El arte de hacer memes es saber cuándo y cómo salir del caos.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Si la vida te da limones, haz una limonada… o al menos un buen meme.",
+    "author": "Nikola Tesla"
+  },
+  {
+    "phrase": "La política es un campo de batalla, pero con menos sangre.",
+    "author": "Maduro"
+  },
+  {
+    "phrase": "La vida es como un meme: difícil de entender, pero muy divertido de compartir.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "phrase": "El conocimiento es poder, pero los memes son la verdadera fuente de energía.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La política es como un videojuego, pero sin vidas extras.",
+    "author": "Maduro"
+  },
+  {
+    "phrase": "¿A quién le importa el futuro si tienes buenos memes ahora?",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "La vida te dará lo que necesites, pero solo si tienes memes para compartir.",
+    "author": "Salvador Dalí"
   }
 ]
