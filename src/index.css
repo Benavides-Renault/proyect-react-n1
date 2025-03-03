@@ -32,7 +32,7 @@ button {
 	display: block;
 	margin: 10px auto;
 	border-radius: 45px;
-	background: linear-gradient(90deg, #00ff334d 0%, #fffb004d 50%, #00ddff4d 100%); 
+	background: linear-gradient(90deg, #ffffffb0 0%, #0000003c 50%, #ffffffb0 100%); 
 }
 
 button:hover {
