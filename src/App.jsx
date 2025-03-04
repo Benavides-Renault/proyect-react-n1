@@ -2,7 +2,7 @@ import { useState } from 'react';
 import phrases from './phrases.json';
 import { randomItems } from './utils';
 import PhraseCard from './components/PhraseCard'
-import Button from './components/Button'
+import Button from './components/Button';
 import { img1_bg, img2_bg, img3_bg, img4_bg } from './assets/img';
 import FlipContainer from './components/FlipContainer';
 
